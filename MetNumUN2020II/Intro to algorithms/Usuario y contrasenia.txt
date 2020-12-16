@@ -1,4 +1,8 @@
 usuario: saariasba@unal.edu.co
 contraseña: Algoritmos20
 
+Avance = 100%
+
 Aprendi como desde lo más basico se organiza un buen algoritmo, la manera de estructurarlo y la manera más eficiente de crear la solución a un problema, teniendo en cuenta heap y sort, que me resultaron muy utiles en el momento de resolver los ejercicios.
+
+PD: también hice el 12% de "Udacity CS212 Diseño de programas informáticos"
